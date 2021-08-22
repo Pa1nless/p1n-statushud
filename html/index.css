@@ -1,0 +1,94 @@
+.container {
+    position: absolute;
+    bottom: 2%;
+    right: 1%;
+}
+
+.box {
+    margin-top: 5px;
+    width: 30px;
+    height: 30px;
+    background-color: rgba(0, 0, 0, 0);
+    box-shadow: 2px 2px 0px 0px #000000a8;
+    border: 2px solid rgb(56, 56, 56);
+    border-radius: 5px;
+}
+
+.vida {
+    position: sticky;
+    margin-top: 30px;
+    transform: rotatex(180deg);
+    transform-origin: top;
+    width: 30px;
+    height: 100%;
+    border-radius: 3px;
+    background-color: rgba(26, 26, 26, 0.671);
+}
+
+.shield {
+    position: sticky;
+    margin-top: 30px;
+    transform: rotatex(180deg);
+    transform-origin: top;
+    width: 30px;
+    height: 100%;
+    border-radius: 3px;
+    background-color: rgba(26, 26, 26, 0.671);
+}
+
+.hunger {
+    position: sticky;
+    margin-top: 30px;
+    transform: rotatex(180deg);
+    transform-origin: top;
+    width: 30px;
+    height: 100%;
+    border-radius: 3px;
+    background-color: rgba(26, 26, 26, 0.671);
+}
+
+.thirst {
+    position: sticky;
+    margin-top: 30px;
+    transform: rotatex(180deg);
+    transform-origin: top;
+    width: 30px;
+    height: 100%;
+    border-radius: 3px;
+    background-color: rgba(26, 26, 26, 0.671);
+}
+
+.stamina {
+    position: sticky;
+    margin-top: 30px;
+    transform: rotatex(180deg);
+    transform-origin: top;
+    width: 30px;
+    height: 100%;
+    border-radius: 3px;
+    background-color: rgba(26, 26, 26, 0.671);
+}
+
+.lungs {
+    position: sticky;
+    margin-top: 30px;
+    transform: rotatex(180deg);
+    transform-origin: top;
+    width: 30px;
+    height: 100%;
+    border-radius: 3px;
+    background-color: rgba(26, 26, 26, 0.671);
+}
+
+i {
+    position: absolute;
+    align-items: flex-end;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    z-index: 99;
+}
+
+.icono {
+    margin-top: 6px;
+    margin-left: 6.5px;
+}
