@@ -1,7 +1,7 @@
   
 fx_version 'bodacious'
 game 'gta5'
-author 'FishyDEV'
+author 'Pa1nlessz#2021'
 ui_page 'html/index.html'
 
 client_scripts {
